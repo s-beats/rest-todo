@@ -7,7 +7,7 @@ require (
 	github.com/google/uuid v1.3.0
 	github.com/joho/godotenv v1.4.0
 	github.com/rs/zerolog v1.23.0
-	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1
+	golang.org/x/xerrors v0.0.0-20220609144429-65e65417b02f
 	xorm.io/xorm v1.3.1
 )
 
